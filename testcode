@@ -3,3 +3,6 @@ if(para="Huy Trinh")
 console.log("ngu si dan don");
 } else {
 console.log("Hoa is nothing");
+
+//new feature
+Hello this is the new feature
