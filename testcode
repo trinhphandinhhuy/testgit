@@ -1,6 +1,6 @@
-if(para="")
+if(para="Hoa LeI")
 {
 console.log("ngu si dan don");
 } else {
-console.log("nothing");
+console.log("Hoa Le is nothing");
 }
