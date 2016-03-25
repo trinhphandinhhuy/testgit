@@ -1,0 +1,6 @@
+if(para="")
+{
+console.log("ngu si dan don");
+} else {
+console.log("nothing");
+}
