@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 if(para="Huy Trinh")
 {
 console.log("ngu si dan don");
 } else {
 console.log("Huy is nothing");
+=======
+if(para="Hoa LeI")
+{
+console.log("ngu si dan don");
+} else {
+console.log("Hoa Le is nothing");
+>>>>>>> 22f9b3311090f68f753a5f7ce895a69ad1300dc8
 }
